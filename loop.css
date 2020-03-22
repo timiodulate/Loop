@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+/* the nav bar section */
+ul{
+    list-style-type: none;
+    float: right;
+    margin: ;
+    padding: ;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    cursor: default;
+    color: #0000;
+    padding: ;
+}
